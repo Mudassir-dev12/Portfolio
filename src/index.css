@@ -1,0 +1,10 @@
+@import "tailwindcss";
+body {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200; /* choose real value */
+  font-style: normal;
+}
+html {
+  scroll-behavior: smooth;
+}
