@@ -50,8 +50,8 @@ const Footer = () => {
         </div>
         {/* Copyright */}
         <p className='text-sm text-center md:text-left'>
-          © 2024 <span className='text-teal-400'>Mudassir waseem</span>. All
-          rights reserved.
+          © 2024 <span className='text-teal-400'>Mudassir</span>. All rights
+          reserved.
         </p>
       </div>
 
