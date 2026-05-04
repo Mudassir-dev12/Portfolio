@@ -6,6 +6,7 @@ import Skills from "./components/skills";
 import Project from "./components/project";
 import Footer from "./components/footer";
 import Mousefollower from "./components/mousefollower";
+import { Analytics } from "@vercel/analytics/react";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       </section>
       <Footer />
       <Mousefollower />
+      <Analytics />
     </div>
   );
 };
